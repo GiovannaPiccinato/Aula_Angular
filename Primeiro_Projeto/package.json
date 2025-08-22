@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:Primeiro_Projeto": "node dist/Primeiro_Projeto/server/server.mjs"
+    "serve:ssr:primeiro_projeto": "node dist/primeiro_projeto/server/server.mjs"
   },
   "prettier": {
     "overrides": [

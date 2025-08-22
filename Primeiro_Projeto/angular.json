@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "Primeiro_Projeto": {
+    "primeiro_projeto": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -61,10 +61,10 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "Primeiro_Projeto:build:production"
+              "buildTarget": "primeiro_projeto:build:production"
             },
             "development": {
-              "buildTarget": "Primeiro_Projeto:build:development"
+              "buildTarget": "primeiro_projeto:build:development"
             }
           },
           "defaultConfiguration": "development"
